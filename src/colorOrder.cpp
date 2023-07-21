@@ -117,10 +117,6 @@ int main() {
       prev=x;
     }
     
-     cout<<"\n\n";
-    
-    for (auto x: path)
-      cout << x+deplasament << " ";
     }
   
   cout<<"\n\n";
