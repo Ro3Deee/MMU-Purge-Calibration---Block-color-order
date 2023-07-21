@@ -1,4 +1,4 @@
-# Color Block Order for MMU Calibration
+# Color Block Order for MMU Purge Calibration
 
 This repository contains the source code and the development versions of the block color change algorithm that is used for color blocks in MMU Filament purge calibration print https://www.printables.com/model/531552-mmu-filament-purge-calibration-print
 
