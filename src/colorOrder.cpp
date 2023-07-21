@@ -107,7 +107,6 @@ int main() {
   vector < int > path = getEulerianPath();
 
   int deplasament=0;
-  // cout<<"deplasament (zero implicit): ";  cin>>deplasament;
   if(path.size()){
     cout<<"\ndrum:\n";
     int prev=0;
@@ -116,7 +115,6 @@ int main() {
         cout<<"Gradient: "<<prev+deplasament<<" » "<<x+deplasament<<". Block color: "<<x+deplasament<<"\n";
       }
       prev=x;
-      // cout << x+deplasament << " ";
     }
     
      cout<<"\n\n";
