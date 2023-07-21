@@ -108,7 +108,7 @@ int main() {
 
   int deplasament=0;
   if(path.size()){
-    cout<<"\ndrum:\n";
+    cout<<"\n Colors :\n";
     int prev=0;
     for (auto x: path){
       if(prev){
