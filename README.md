@@ -21,6 +21,7 @@ For 3 colors:
     Gradient: 2 » 3. Block color: 3
     Gradient: 3 » 1. Block color: 1
 
+For more color examples (4 and 5) check: https://www.printables.com/model/531552-mmu-filament-purge-calibration-print
     
 # Build
 g++ eulerianCircuit.cpp
