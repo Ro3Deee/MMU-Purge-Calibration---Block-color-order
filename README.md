@@ -24,8 +24,10 @@ For 3 colors:
 For more color examples (4 and 5) check: https://www.printables.com/model/531552-mmu-filament-purge-calibration-print
     
 # Build
-g++ eulerianCircuit.cpp
+- download the project
+- compile the cpp file:
+g++ src/colorOrder.cpp
 
 # Usage
 
-Run the binary în a console and enter the number of colors. The program will show the order of colors.
+Run the binary in a console and enter the number of colors. The program will show the order of colors.
